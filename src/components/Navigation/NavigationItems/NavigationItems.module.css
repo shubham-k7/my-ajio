@@ -1,0 +1,32 @@
+.NavigationItems {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+    display: flex;
+    align-items: baseline;
+    height: 50%;
+    flex-flow: column;
+    text-align: right;
+    font-size: 80%;
+}
+
+.signup-header {
+    height: 50%;
+    float: right;
+    margin: 4px 0 11px;
+    text-align: right;
+}
+
+.navheader {
+    display: inline-block;
+    width: 90%;
+    box-sizing: border-box;
+    
+}
+
+@media (min-width: 500px) {
+    .NavigationItems {
+        flex-flow: row;
+    }
+}

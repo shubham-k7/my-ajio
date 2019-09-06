@@ -1,0 +1,18 @@
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const ADD_TO_CART_START = 'ADD_TO_CART_START';
+export const ADD_TO_CART_SUCCESS = 'ADD_TO_CART_SUCCESS';
+export const ADD_TO_CART_FAIL = 'ADD_TO_CART_FAIL';
+
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+
+export const INIT_PRODUCTS = 'INIT_PRODUCTS';
+export const INIT_PRODUCTS_START = 'INIT_PRODUCTS_START';
+export const INIT_PRODUCTS_SUCCESS = 'INIT_PRODUCTS_SUCCESS';
+export const INIT_PRODUCTS_FAIL = 'INIT_PRODUCTS_FAIL';
+
+export const SET_PRODUCTS = 'SET_PRODUCTS';

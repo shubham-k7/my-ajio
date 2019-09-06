@@ -1,0 +1,11 @@
+.CartIcon {
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    text-align: center;
+    cursor: pointer;   
+    display: inline-block;
+    background-color: #2c4152;
+    text-align: baseline;
+    margin: 0 5%;
+}

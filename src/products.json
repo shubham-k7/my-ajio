@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "s/assets/images/men1.jpg",
+        "description": "New tshirt",
+        "price": 12,
+        "label": "Ajio",
+        "alt": "Denim Jeans",
+        "name": "Denim Jeans"
+    },
+    {
+        "id": 2,
+        "imgSrc": "s/assets/images/men1.jpg",
+        "description": "New tshirt",
+        "price": 12,
+        "label": "Ajio",
+        "alt": "Denim Jeans",
+        "name": "Denim Jeans"
+    },
+    {
+        "id": 3,
+        "imgSrc": "s/assets/images/men1.jpg",
+        "description": "New tshirt",
+        "price": 12,
+        "label": "Ajio",
+        "alt": "Denim Jeans",
+        "name": "Denim Jeans"
+    },
+    {
+        "id": 4,
+        "imgSrc": "s/assets/images/men1.jpg",
+        "description": "New tshirt",
+        "price": 12,
+        "label": "Ajio",
+        "alt": "Denim Jeans",
+        "name": "Denim Jeans"
+    },
+    {
+        "id": 5,
+        "imgSrc": "s/assets/images/men1.jpg",
+        "description": "New tshirt",
+        "price": 12,
+        "label": "Ajio",
+        "alt": "Denim Jeans",
+        "name": "Denim Jeans"
+    },
+    {
+        "id": 6,
+        "imgSrc": "s/assets/images/men1.jpg",
+        "description": "New tshirt",
+        "price": 12,
+        "label": "Ajio",
+        "alt": "Denim Jeans",
+        "name": "Denim Jeans"
+    }
+]
